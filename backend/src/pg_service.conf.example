@@ -1,0 +1,5 @@
+[codespace_pg_service]
+host=localhost
+user=USER
+dbname=NAME
+port=5432
